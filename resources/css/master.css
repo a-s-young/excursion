@@ -3,11 +3,16 @@ html {
   text-align: center;
 }
 
+h1,
+h2,
+h3 {
+  color: white;
+}
+
 h1 {
   font-family: verdana;
   font-weight: normal;
   font-size: 50px;
-  color: white;
 }
 
 a {
